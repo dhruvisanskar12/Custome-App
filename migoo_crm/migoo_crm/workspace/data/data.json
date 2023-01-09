@@ -1,0 +1,59 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Data</span>\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Raw Data 1\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Raw Data 2\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Raw Data 3\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Inquiry Form\",\"col\":3}}]",
+ "creation": "2022-09-09 14:01:29.397359",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "menu",
+ "idx": 0,
+ "label": "Data",
+ "links": [],
+ "modified": "2023-01-09 11:19:59.368824",
+ "modified_by": "foram@sanskartechnolab.com",
+ "module": "Migoo CRM",
+ "name": "Data",
+ "owner": "foram@sanskartechnolab.com",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "",
+ "roles": [
+  {
+   "role": "Raw_data"
+  }
+ ],
+ "sequence_id": 31.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Raw Data 3",
+   "link_to": "Raw Data 3",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Raw Data 1",
+   "link_to": "Raw Data 1",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Raw Data 2",
+   "link_to": "Raw Data 2",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Inquiry Form",
+   "link_to": "Inquiry Form",
+   "type": "DocType"
+  }
+ ],
+ "title": "Data"
+}
